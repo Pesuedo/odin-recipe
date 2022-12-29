@@ -1,2 +1,2 @@
 # odin-recipe
-This website is all about some dishes ghanaians have
+This website is about the odin-recipe 
